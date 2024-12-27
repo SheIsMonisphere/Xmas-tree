@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Xmas-tree/', 
+  base: '/Xmastore/', 
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
